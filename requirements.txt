@@ -1,0 +1,7 @@
+tweepy
+pandas
+json
+apache-airflow
+cassandra-sigv4
+cassandra-driver
+apache-airflow-providers-apache-cassandra
